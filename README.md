@@ -1,10 +1,10 @@
-# treva_shop_flutter
+# ASL Shop
 
-A new Flutter project.
+A new shopping app of Amicritas Software LTD.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Front-End design of ASL Shop.
 
 A few resources to get you started if this is your first Flutter project:
 
